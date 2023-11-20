@@ -5,7 +5,7 @@
 [```GitHub```](https://github.com/meetgurudev/meetgurudev)
 
 ## Professional Summary
-Software Engineer with experience in JavaScript web applications, Java microservices, platform integrations, databases and building REST APIs. Holds a Master's degree in Computer Science and is dedicated to collaborative teamwork. Proficient in front-end development with ES6, React, and cross-browser compliant HTML & Sass/CSS. Strong background in Git and familiarity with server technologies.
+Software Engineer with experience building Cloud Native Web Applications in Sping Boot, Node Js, Flask/DJango Frameworks. Hands on expertise accross diverse programming languages and frameworks including building REST APIs in Java microservices, platform integrations, database migrations. Holds a Master's degree in Computer Science and is dedicated to collaborative teamwork. Proficient in front-end development with ES6+, React, Angular Frameworks and cross-browser compliant HTML & Sass/CSS. Strong background in Git and established DevOps Skills in building CI/CD pipelines.
 
 ## Education
 **Master of Science in Computer Science**  
