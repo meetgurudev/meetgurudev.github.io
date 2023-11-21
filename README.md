@@ -24,7 +24,7 @@ Software Engineer with experience building Cloud Native Web Applications in Spin
 **AWS, Sunnyvale, California**  
 *July 2022 – Present*
 
-- **DFDD Health-Checker:** 
+- ** Java 8+ ** 
 - **Critical Bug Resolutions:**
 - **Snapshot Benchmarking:** 
 - **Operational Maintenance:** 
