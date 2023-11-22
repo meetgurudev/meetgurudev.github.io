@@ -20,18 +20,20 @@ Software Engineer with experience building Cloud Native Web Applications in Spin
 
 ## Technicak Skills
 
-> **Languages:** Java 8+ | Kotlin | Python | SQL | JavaScript | Shell | TypeScript | C++ | Ruby | HTML5 | CSS3 | ES 6+ | 
-
-> **Specialized:** Microservices | REST | SOAP | Spring Boot | Spark Java | Multithreading | MERN | Node.js | React  
-
-> **Orchestration:** Docker | Kubernetes | Kafka | Mesos | Knative | EFK Stack | GCP | Oracle Cloud | CFN | NPM |
-
-> **Databases:** MySQL | PostgreSQL | MongoDB | GraphQL | Cassandra | DB Firebase | RDS | Redis | DynamoDB | S3 |
-
-> **Testing Tools:** JUnit | Mockito | WireMock | Selenium | Cypress | Mocha | Soap UI | Apache JMeter | BigQuery
-
+>
+> ***Languages:*** Java 8+ | Kotlin | Python | SQL | JavaScript | Shell | TypeScript | C++ | Ruby | HTML5 | CSS3 | ES 6+ | 
+>
+> ***Specialized:*** Microservices | REST | SOAP | Spring Boot | Spark Java | Multithreading | MERN | Node.js | React  
+>
+> ***Orchestration:*** Docker | Kubernetes | Kafka | Mesos | Knative | EFK Stack | GCP | Oracle Cloud | CFN | NPM |
+>
+> ***Databases:*** MySQL | PostgreSQL | MongoDB | GraphQL | Cassandra | DB Firebase | RDS | Redis | DynamoDB | S3 |
+>
+> ***Testing Tools:*** JUnit | Mockito | WireMock | Selenium | Cypress | Mocha | Soap UI | Apache JMeter | BigQuery
+>
 > **Other:** Git | Perforce | SVN | Jenkins | TeamCity | GitLab CI | CI/CD | DevOps | WebPack | Maven | Gradle | JIRA | Confluence | SaaS | SAML Auth | OAuth 2.0 | IAM | Test-Driven Development | jQuery | CRM | JSON | XML | SOA | Distributed Systems | Event Driven Systems | Problem Solving | OpenAPI | Terraform | NoSQL | EC2 | ETL | EKS
-
+>
+>
 ## Professional Experience
 
 ### Software Development Engineer | AWS | Sunnyvale, California 
