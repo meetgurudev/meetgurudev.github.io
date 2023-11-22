@@ -1,5 +1,5 @@
 
-## Gurudev Yalagala
+# Gurudev Yalagala
 [```Email```](gurudev96@gmail.com)
 [```LinkedIn```](https://www.linkedin.com/in/meetgurudev)
 [```GitHub```](https://github.com/meetgurudev/meetgurudev)
@@ -80,7 +80,7 @@ Software Engineer with experience building Cloud Native Web Applications in Spin
 
 * Streamed Real Time data to Apache Spark Connector for Azure SQL to build LMS dashboards, eliminating data redundancy and enhancing data visualization capabilities.
 
-## TECHNICAL PROJECTS
+## Technical Projects
 
 * Implemented a distributed Pub/Sub model using Kafka, enabling rapid and efficient topic-based YT Playlist notifications. Built a decentralized Broker Network with rendezvous-based routing & Message Queues using docker services like Python Flask, NGINX, PostgreSQL, and MQTT, demonstrating expertise in distributed systems and messaging protocols.
 
