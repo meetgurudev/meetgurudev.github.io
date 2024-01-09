@@ -21,9 +21,9 @@ Software Engineer with experience building Cloud Native Web Applications in Spin
 ## Technicak Skills
 
 >
-> ***Languages:*** Java 8+ | Kotlin | Python | SQL | JavaScript | Shell | TypeScript | C++ | Ruby | HTML5 | CSS3 | ES 6+ | 
+> ***Languages:*** Java 8+ | Python | SQL | JavaScript | Shell | TypeScript | C++ | Ruby | HTML5 | CSS3 | ES 6+ | 
 >
-> ***Specialized:*** Microservices | REST | SOAP | Spring Boot | Spark Java | Multithreading | MERN | Node.js | React  
+> ***Specialized:*** Microservices | REST | SOAP | Spring Boot | Spark Java | Multithreading | MERN | Node.js | React |
 >
 > ***Orchestration:*** Docker | Kubernetes | Kafka | Mesos | Knative | EFK Stack | GCP | Oracle Cloud | CFN | NPM |
 >
