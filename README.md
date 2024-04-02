@@ -109,16 +109,16 @@ Software Engineer with experience building Cloud Native Web Applications in Spin
 <style>
 body {
    padding: 10%;
-  display: flex;
-  flex-direction: column;
-  box-sizing: content-box;
-  border: 2px solid black;
-  overflow: ellipsis;
-  text-wrap-mode: wrap;
-  text-wrap: balance;
-  overflow-x: hidden;
-  line-break: strict;
-
+   display: flex;
+   flex-direction: column;
+   box-sizing: content-box;
+   border: 2px solid black;
+   overflow: ellipsis;
+   text-wrap-mode: wrap;
+   text-wrap: balance;
+   overflow-x: hidden;
+   line-break: strict;
+   margin:15px;
 }
  
   
