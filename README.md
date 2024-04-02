@@ -1,7 +1,6 @@
 
 # Gurudev Yalagala
 [```Email```](gurudev96@gmail.com)
-[```LinkedIn```](https://www.linkedin.com/in/meetgurudev)
 [```GitHub```](https://github.com/meetgurudev/meetgurudev)
 
 ## Professional Summary
