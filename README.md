@@ -1,4 +1,18 @@
+<style>
 
+  padding: 10%;
+  display: flex;
+  flex-direction: column;
+  box-sizing: content-box;
+  border: 2px solid black;
+  overflow: ellipsis;
+  text-wrap-mode: wrap;
+  text-wrap: balance;
+  overflow-x: hidden;
+  line-break: strict;
+
+  
+</style>
 # Gurudev Yalagala
 [```Email```](gurudev96@gmail.com)
 [```GitHub```](https://github.com/meetgurudev/meetgurudev)
