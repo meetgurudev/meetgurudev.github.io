@@ -1,20 +1,3 @@
-<style>
-body {
-   padding: 10%;
-  display: flex;
-  flex-direction: column;
-  box-sizing: content-box;
-  border: 2px solid black;
-  overflow: ellipsis;
-  text-wrap-mode: wrap;
-  text-wrap: balance;
-  overflow-x: hidden;
-  line-break: strict;
-
-}
- 
-  
-</style>
 
 [```Email```](gurudev96@gmail.com)
 [```GitHub```](https://github.com/meetgurudev/meetgurudev)
@@ -123,6 +106,23 @@ Software Engineer with experience building Cloud Native Web Applications in Spin
 * Runner-up in IEEE CES & HP Hack-A-Thon: Under 48 hours, built and delivered the Android App- Blood Donors Network, using Android SDK Studio and Google Firebase as a real-time database, showcasing rapid problem-solving and development skills.
 
 * Served as Director for Technical & Design at Health Club VIT (NGO), initiating digital campaigns on health awareness topics through innovative and message-centric poster designs, demonstrating creativity and community engagement.
+<style>
+body {
+   padding: 10%;
+  display: flex;
+  flex-direction: column;
+  box-sizing: content-box;
+  border: 2px solid black;
+  overflow: ellipsis;
+  text-wrap-mode: wrap;
+  text-wrap: balance;
+  overflow-x: hidden;
+  line-break: strict;
+
+}
+ 
+  
+</style>
 
 <!--
 ## PROFESSIONAL SUMMARY
