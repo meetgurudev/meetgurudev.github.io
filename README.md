@@ -1,6 +1,6 @@
 <style>
-
-  padding: 10%;
+body {
+   padding: 10%;
   display: flex;
   flex-direction: column;
   box-sizing: content-box;
@@ -11,6 +11,8 @@
   overflow-x: hidden;
   line-break: strict;
 
+}
+ 
   
 </style>
 # Gurudev Yalagala
