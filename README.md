@@ -15,7 +15,7 @@ body {
  
   
 </style>
-# Gurudev Yalagala
+
 [```Email```](gurudev96@gmail.com)
 [```GitHub```](https://github.com/meetgurudev/meetgurudev)
 
