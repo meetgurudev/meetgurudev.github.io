@@ -1,5 +1,5 @@
 
-[```Email```](mailto:gurudev96@gmail.com?subject=Cheers%20From%20GitHub)
+[```Email```](mailto:gurudev96@gmail.com?subject=[GitHub]%20)
 [```GitHub```](https://github.com/meetgurudev/meetgurudev)
 
 ## Professional Summary
