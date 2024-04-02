@@ -1,6 +1,6 @@
 
 [```Email```](mailto:gurudev96@gmail.com?subject=[GitHub%20Click])
-[```GitHub```](https://github.com/meetgurudev/meetgurudev)
+[```GitHub```](https://github.com/meetgurudev)
 
 ## Professional Summary
 Software Engineer with experience building Cloud Native Web Applications in Sping Boot, Node Js, Flask/DJango Frameworks. Hands on expertise accross diverse programming languages and frameworks including building REST APIs in Java microservices, platform integrations, database migrations. Holds a Master's degree in Computer Science and is dedicated to collaborative teamwork. Proficient in front-end development with ES6+, React, Angular Frameworks and cross-browser compliant HTML & Sass/CSS. Strong background in Git and established DevOps Skills in building CI/CD pipelines.
