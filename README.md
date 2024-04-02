@@ -32,7 +32,8 @@ Software Engineer with experience building Cloud Native Web Applications in Spin
 >
 > **Other:** Git | Perforce | SVN | Jenkins | TeamCity | GitLab CI | CI/CD | DevOps | WebPack | Maven | Gradle | JIRA | Confluence | SaaS | SAML Auth | OAuth 2.0 | IAM | Test-Driven Development | jQuery | CRM | JSON | XML | SOA | Distributed Systems | Event Driven Systems | Problem Solving | OpenAPI | Terraform | NoSQL | EC2 | ETL | EKS
 >
->
+
+
 ## Professional Experience
 
 ### Software Development Engineer | AWS | Sunnyvale, California 
