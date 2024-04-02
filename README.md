@@ -121,9 +121,9 @@ body {
    margin:15px;
 }
  
-  
 </style>
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-profiles/1.0.0/bootstrap-profiles.min.css" integrity="sha512-Dzi0zz9zCe2olZNhq+wnzGjO5ILOv8f/yD6j8srW+XGnnv9dUN04eEoIdVHxQqiy8uBn21niIWQpiCzYJEH3yg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <!--
 ## PROFESSIONAL SUMMARY
 
