@@ -81,6 +81,7 @@ Software Engineer with experience building Cloud Native Web Applications in Spin
 
 ## Technical Projects
 
+#### University at Buffalo | Fall 2021 to Spring 2022
 * Implemented a distributed Pub/Sub model using Kafka, enabling rapid and efficient topic-based YT Playlist notifications. Built a decentralized Broker Network with rendezvous-based routing & Message Queues using docker services like Python Flask, NGINX, PostgreSQL, and MQTT, demonstrating expertise in distributed systems and messaging protocols.
 
 * Built a distributed RAFT Consensus protocol, implementing Paxos features, including Log Replication, Replica Scaling, and Log Compaction within a docker network, replicating Leader Election during crash recovery, ensuring data consistency and fault tolerance.
