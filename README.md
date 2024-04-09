@@ -1,7 +1,38 @@
 
-[```Email```](mailto:gurudev96@gmail.com?subject=[GitHub%20Click])
-[```GitHub```](https://github.com/meetgurudev)
 
+|**Information A**|**Information B**|
+|:---:|:---:|
+| Text1 <br/> Text2 | ![stats-one](https://github-readme-stats.vercel.app/api?... |
+| Text3 <br/> Text4 | ![stats-two](https://github-readme-stats.vercel.app/api?... |
+
+
+#### Socials
+[![Email](https://img.shields.io/badge/GMail-%231877F2.svg?logo=Gmail)](mailto:gurudev96@gmail.com?subject=[GitHub%20Click]) 
+[![GitHub](https://img.shields.io/badge/GitHub-%231877F2.svg?logo=GitHub)](https://github.com/meetgurudev) 
+[![Visits](https://visitcount.itsvg.in/api?id=meetgurudev&icon=3&color=0)]([https://visitcount.itsvg.in](https://visitcount.itsvg.in/api?id=meetgurudev&icon=7&color=0))
+
+#### Tech Stack
+![Java](https://img.shields.io/badge/Java|J2EE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Crypto Ledger](https://img.shields.io/badge/LEDGER%20DataBases-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white) 
+
+---
 ## Professional Summary
 Software Engineer with experience building Cloud Native Web Applications in Sping Boot, Node Js, Flask/DJango Frameworks. Hands on expertise accross diverse programming languages and frameworks including building REST APIs in Java microservices, platform integrations, database migrations. Holds a Master's degree in Computer Science and is dedicated to collaborative teamwork. Proficient in front-end development with ES6+, React, Angular Frameworks and cross-browser compliant HTML & Sass/CSS. Strong background in Git and established DevOps Skills in building CI/CD pipelines.
 
@@ -107,7 +138,7 @@ Software Engineer with experience building Cloud Native Web Applications in Spin
 * Runner-up in IEEE CES & HP Hack-A-Thon: Under 48 hours, built and delivered the Android App- Blood Donors Network, using Android SDK Studio and Google Firebase as a real-time database, showcasing rapid problem-solving and development skills.
 
 * Served as Director for Technical & Design at Health Club VIT (NGO), initiating digital campaigns on health awareness topics through innovative and message-centric poster designs, demonstrating creativity and community engagement.
-<style>
+<style type="text/css">
 body {
    padding: 10%;
    display: flex;
@@ -121,7 +152,6 @@ body {
    line-break: strict;
    margin:15px;
 }
- 
 </style>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-profiles/1.0.0/bootstrap-profiles.min.css" integrity="sha512-Dzi0zz9zCe2olZNhq+wnzGjO5ILOv8f/yD6j8srW+XGnnv9dUN04eEoIdVHxQqiy8uBn21niIWQpiCzYJEH3yg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -208,7 +238,8 @@ Experienced and forward-thinking Software Engineer with nearly 6 years of dedica
 - Design Manager for events like TEDx VIT and Toastmasters IEYS.
 
 ## PROFESSIONAL EXPERIENCE
-
+[```Email```]()
+[```GitHub```]()
 
 
 **meetgurudev/meetgurudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
