@@ -1,6 +1,6 @@
+# Gurudev Yalagala
 [![Email](https://img.shields.io/badge/GMail-%231877F2.svg?logo=Gmail)](mailto:gurudev96@gmail.com?subject=[GitHub%20Query]) 
 [![GitHub](https://img.shields.io/badge/GitHub-%231877F2.svg?logo=GitHub)](https://github.com/meetgurudev) 
-![Audi _SQ5_](https://aleen42.github.io/badges/src/audi.svg) 
 [![Visits](https://visitcount.itsvg.in/api?id=meetgurudev&icon=3&color=0)]([https://visitcount.itsvg.in](https://visitcount.itsvg.in/api?id=meetgurudev&icon=7&color=0))
 
 ## Professional Summary
@@ -17,7 +17,7 @@ Software Engineer with experience building Cloud Native Web Applications in Spin
 *July 2014 – May 2018*  
 *Courses*: Object-Oriented Programming Paradigms, Operating Systems, Database Systems, Computer Networks, Digital Image Processing
 
-## Technical Stack
+### Technical Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java|J2EE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -137,8 +137,8 @@ Software Engineer with experience building Cloud Native Web Applications in Spin
 > **Testing Tools:** | JUnit | Mockito | WireMock | Selenium | Cypress | Mocha | Soap UI | Apache JMeter | BigQuery
 >
 > **Other:** | Git | Perforce | SVN | Jenkins | TeamCity | GitLab CI | CI/CD | DevOps | WebPack | Maven | Gradle | JIRA | Confluence | SaaS | SAML Auth | OAuth 2.0 | IAM | Test-Driven Development | jQuery | CRM | JSON | XML | SOA | Distributed Systems | Event Driven Systems | Problem Solving | OpenAPI | Terraform | NoSQL | EC2 | ETL | EKS
->
->
+
+![Audi](https://aleen42.github.io/badges/src/audi.svg)  _sQ5_ 🚙
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-profiles/1.0.0/bootstrap-profiles.min.css" integrity="sha512-Dzi0zz9zCe2olZNhq+wnzGjO5ILOv8f/yD6j8srW+XGnnv9dUN04eEoIdVHxQqiy8uBn21niIWQpiCzYJEH3yg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <!--
