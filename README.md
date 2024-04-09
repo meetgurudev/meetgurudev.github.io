@@ -1,38 +1,7 @@
-
-
-|**Information A**|**Information B**|
-|:---:|:---:|
-| Text1 <br/> Text2 | ![stats-one](https://github-readme-stats.vercel.app/api?... |
-| Text3 <br/> Text4 | ![stats-two](https://github-readme-stats.vercel.app/api?... |
-
-
-#### Socials
 [![Email](https://img.shields.io/badge/GMail-%231877F2.svg?logo=Gmail)](mailto:gurudev96@gmail.com?subject=[GitHub%20Click]) 
 [![GitHub](https://img.shields.io/badge/GitHub-%231877F2.svg?logo=GitHub)](https://github.com/meetgurudev) 
 [![Visits](https://visitcount.itsvg.in/api?id=meetgurudev&icon=3&color=0)]([https://visitcount.itsvg.in](https://visitcount.itsvg.in/api?id=meetgurudev&icon=7&color=0))
 
-#### Tech Stack
-![Java](https://img.shields.io/badge/Java|J2EE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Crypto Ledger](https://img.shields.io/badge/LEDGER%20DataBases-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white) 
-
----
 ## Professional Summary
 Software Engineer with experience building Cloud Native Web Applications in Sping Boot, Node Js, Flask/DJango Frameworks. Hands on expertise accross diverse programming languages and frameworks including building REST APIs in Java microservices, platform integrations, database migrations. Holds a Master's degree in Computer Science and is dedicated to collaborative teamwork. Proficient in front-end development with ES6+, React, Angular Frameworks and cross-browser compliant HTML & Sass/CSS. Strong background in Git and established DevOps Skills in building CI/CD pipelines.
 
@@ -47,21 +16,35 @@ Software Engineer with experience building Cloud Native Web Applications in Spin
 *July 2014 – May 2018*  
 *Courses*: Object-Oriented Programming Paradigms, Operating Systems, Database Systems, Computer Networks, Digital Image Processing
 
-## Technicak Skills
+## Technical Stack
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java|J2EE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Crypto Ledger](https://img.shields.io/badge/LEDGER%20DataBases-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white) 
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) 
+![Google GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Ms Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
->
-> **Languages:** | Java 8+ | Python | SQL | JavaScript | Shell | TypeScript | C++ | Ruby | HTML5 | CSS3 | ES 6+ | 
->
-> **Specialized:** | Microservices | REST | SOAP | Spring Boot | Spark Java | Multithreading | MERN | Node.js | React |
->
-> **Orchestration:** | Docker | Kubernetes | Kafka | Mesos | Knative | EFK Stack | GCP | Oracle Cloud | CFN | NPM |
->
-> **Databases:** | MySQL | PostgreSQL | MongoDB | GraphQL | Cassandra | DB Firebase | RDS | Redis | DynamoDB | S3 |
->
-> **Testing Tools:** | JUnit | Mockito | WireMock | Selenium | Cypress | Mocha | Soap UI | Apache JMeter | BigQuery
->
-> **Other:** | Git | Perforce | SVN | Jenkins | TeamCity | GitLab CI | CI/CD | DevOps | WebPack | Maven | Gradle | JIRA | Confluence | SaaS | SAML Auth | OAuth 2.0 | IAM | Test-Driven Development | jQuery | CRM | JSON | XML | SOA | Distributed Systems | Event Driven Systems | Problem Solving | OpenAPI | Terraform | NoSQL | EC2 | ETL | EKS
->
 
 
 ## Professional Experience
@@ -138,21 +121,23 @@ Software Engineer with experience building Cloud Native Web Applications in Spin
 * Runner-up in IEEE CES & HP Hack-A-Thon: Under 48 hours, built and delivered the Android App- Blood Donors Network, using Android SDK Studio and Google Firebase as a real-time database, showcasing rapid problem-solving and development skills.
 
 * Served as Director for Technical & Design at Health Club VIT (NGO), initiating digital campaigns on health awareness topics through innovative and message-centric poster designs, demonstrating creativity and community engagement.
-<style type="text/css">
-body {
-   padding: 10%;
-   display: flex;
-   flex-direction: column;
-   box-sizing: content-box;
-   border: 2px solid black;
-   overflow: ellipsis;
-   text-wrap-mode: wrap;
-   text-wrap: balance;
-   overflow-x: hidden;
-   line-break: strict;
-   margin:15px;
-}
-</style>
+
+## Technical Skills
+
+>
+> **Languages:** | Java 8+ | Python | SQL | JavaScript | Shell | TypeScript | C++ | Ruby | HTML5 | CSS3 | ES 6+ | 
+>
+> **Specialized:** | Microservices | REST | SOAP | Spring Boot | Spark Java | Multithreading | MERN | Node.js | React |
+>
+> **Orchestration:** | Docker | Kubernetes | Kafka | Mesos | Knative | EFK Stack | GCP | Oracle Cloud | CFN | NPM |
+>
+> **Databases:** | MySQL | PostgreSQL | MongoDB | GraphQL | Cassandra | DB Firebase | RDS | Redis | DynamoDB | S3 |
+>
+> **Testing Tools:** | JUnit | Mockito | WireMock | Selenium | Cypress | Mocha | Soap UI | Apache JMeter | BigQuery
+>
+> **Other:** | Git | Perforce | SVN | Jenkins | TeamCity | GitLab CI | CI/CD | DevOps | WebPack | Maven | Gradle | JIRA | Confluence | SaaS | SAML Auth | OAuth 2.0 | IAM | Test-Driven Development | jQuery | CRM | JSON | XML | SOA | Distributed Systems | Event Driven Systems | Problem Solving | OpenAPI | Terraform | NoSQL | EC2 | ETL | EKS
+>
+>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-profiles/1.0.0/bootstrap-profiles.min.css" integrity="sha512-Dzi0zz9zCe2olZNhq+wnzGjO5ILOv8f/yD6j8srW+XGnnv9dUN04eEoIdVHxQqiy8uBn21niIWQpiCzYJEH3yg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <!--
