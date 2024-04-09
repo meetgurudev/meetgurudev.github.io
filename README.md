@@ -1,4 +1,4 @@
-[![Email](https://img.shields.io/badge/GMail-%231877F2.svg?logo=Gmail)](mailto:gurudev96@gmail.com?subject=[GitHub%20Click]) 
+[![Email](https://img.shields.io/badge/GMail-%231877F2.svg?logo=Gmail)](mailto:gurudev96@gmail.com?subject=[GitHub%20Query]) 
 [![GitHub](https://img.shields.io/badge/GitHub-%231877F2.svg?logo=GitHub)](https://github.com/meetgurudev) 
 ![Audi _SQ5_](https://aleen42.github.io/badges/src/audi.svg) 
 [![Visits](https://visitcount.itsvg.in/api?id=meetgurudev&icon=3&color=0)]([https://visitcount.itsvg.in](https://visitcount.itsvg.in/api?id=meetgurudev&icon=7&color=0))
