@@ -1,6 +1,6 @@
 
-
-[![Visits](https://visitcount.itsvg.in/api?id=meetgurudev&icon=3&color=12)]((https://visitcount.itsvg.in/api?id=meetgurudev&icon=3&color=12)) 
+ 
+[![](https://visitcount.itsvg.in/api?id=meetgurudev&label=Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 [![Email](https://img.shields.io/badge/GMail-%23fff.svg?logo=Gmail)](mailto:gurudev96@gmail.com?subject=[GitHub%20Query]) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23222.svg?logo=GitHub)](https://github.com/meetgurudev)
 
