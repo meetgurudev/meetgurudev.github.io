@@ -1,7 +1,7 @@
 
 
-[![Email](https://img.shields.io/badge/GMail-%231877F2.svg?logo=Gmail)](mailto:gurudev96@gmail.com?subject=[GitHub%20Query]) 
-[![GitHub](https://img.shields.io/badge/GitHub-%231877F2.svg?logo=GitHub)](https://github.com/meetgurudev) 
+[![Email](https://img.shields.io/badge/GMail-%23fff.svg?logo=Gmail)](mailto:gurudev96@gmail.com?subject=[GitHub%20Query]) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23222.svg?logo=GitHub)](https://github.com/meetgurudev) 
 [![Visits](https://visitcount.itsvg.in/api?id=meetgurudev&icon=3&color=0)]([https://visitcount.itsvg.in](https://visitcount.itsvg.in/api?id=meetgurudev&icon=7&color=0))
 
 ## Professional Summary
