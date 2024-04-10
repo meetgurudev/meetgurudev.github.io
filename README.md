@@ -1,8 +1,9 @@
 
 
+[![Visits](https://visitcount.itsvg.in/api?id=meetgurudev&icon=3&color=0)]([https://visitcount.itsvg.in](https://visitcount.itsvg.in/api?id=meetgurudev&icon=7&color=0))
 [![Email](https://img.shields.io/badge/GMail-%23fff.svg?logo=Gmail)](mailto:gurudev96@gmail.com?subject=[GitHub%20Query]) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23222.svg?logo=GitHub)](https://github.com/meetgurudev) 
-[![Visits](https://visitcount.itsvg.in/api?id=meetgurudev&icon=3&color=0)]([https://visitcount.itsvg.in](https://visitcount.itsvg.in/api?id=meetgurudev&icon=7&color=0))
+
 
 ## Professional Summary
 Software Engineer with experience building Cloud Native Web Applications in Sping Boot, Node Js, Flask/DJango Frameworks. Hands on expertise accross diverse programming languages and frameworks including building REST APIs in Java microservices, platform integrations, database migrations. Holds a Master's degree in Computer Science and is dedicated to collaborative teamwork. Proficient in front-end development with ES6+, React, Angular Frameworks and cross-browser compliant HTML & Sass/CSS. Strong background in Git and established DevOps Skills in building CI/CD pipelines.
